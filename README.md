@@ -1,1 +1,2 @@
 # Leukemia_Classification
+ResNet50, GoogLeNet and VGG16 With the development of artificial intelligence, it becomes possible to use it to classify medical images. Large data streams obtained as a result of patient examinations can be analyzed with greater speed and sufficient accuracy. This article presents the results of the analysis of cells images for identifying immature leukemic blasts from normal cells by using convolutional neural networks.
